@@ -1,0 +1,5 @@
+{
+    "php.suggest.basic": true,
+    "php.validate.enable": false,
+    "liveServer.settings.port": 5501
+}
